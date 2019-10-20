@@ -1,2 +1,2 @@
 # saturday9
-Agile Saturday Group - Saturday9
+Agile Study Group - Saturday9
