@@ -7,8 +7,6 @@
 
 Designer/Manager You vs. Worker You - Ray Dalio's Principle 1.10
 
-
-
 ## 방법론
 
 ### ispyi
@@ -17,4 +15,8 @@ Designer/Manager You vs. Worker You - Ray Dalio's Principle 1.10
 
 ### MBTI
 
+https://www.16personalities.com/ko
+
 ### Big Five Model
+
+https://www.truity.com/test/big-five-personality-test
